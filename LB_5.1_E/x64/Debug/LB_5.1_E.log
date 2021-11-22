@@ -1,0 +1,9 @@
+﻿  FuzzyNumber.cpp
+E:\oop\LB_5.1_E\FuzzyNumber.cpp(53,126): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\oop\LB_5.1_E\FuzzyNumber.cpp(54,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+E:\oop\LB_5.1_E\FuzzyNumber.h(33): message : see declaration of 'operator >>'
+  LB_5.1_E.cpp
+E:\oop\LB_5.1_E\LB_5.1_E.cpp(30,3): warning C4286: 'Exception &': is caught by base class ('std::bad_exception &') on line 25
+  Object.cpp
+  Generating Code...
+  LB_5.1_E.vcxproj -> E:\oop\LB_5.1_E\x64\Debug\LB_5.1_E.exe
