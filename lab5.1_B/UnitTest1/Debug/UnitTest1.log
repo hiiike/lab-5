@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\oop\lab5.1_B\lab5.1_B\FuzzyNumber.h(33,98): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\oop\lab5.1_B\lab5.1_B\FuzzyNumber.cpp(54,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library E:\oop\lab5.1_B\Debug\UnitTest1.lib and object E:\oop\lab5.1_B\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\oop\lab5.1_B\Debug\UnitTest1.dll

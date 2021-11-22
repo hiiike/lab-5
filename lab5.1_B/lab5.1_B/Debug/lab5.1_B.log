@@ -1,0 +1,9 @@
+﻿  FuzzyNumber.cpp
+E:\oop\lab5.1_B\lab5.1_B\FuzzyNumber.h(33,98): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\oop\lab5.1_B\lab5.1_B\FuzzyNumber.cpp(54,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\oop\lab5.1_B\lab5.1_B\FuzzyNumber.cpp(55,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+E:\oop\lab5.1_B\lab5.1_B\FuzzyNumber.h(33): message : see declaration of 'operator >>'
+  lab5_1_B.cpp
+E:\oop\lab5.1_B\lab5.1_B\FuzzyNumber.h(33,98): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  lab5.1_B.vcxproj -> E:\oop\lab5.1_B\Debug\lab5.1_B.exe
