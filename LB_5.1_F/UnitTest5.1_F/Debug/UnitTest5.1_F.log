@@ -1,0 +1,3 @@
+﻿  UnitTest5.1_F.cpp
+D:\Project\OOP\LB5\LB_5.1_F\Pair.cpp(61,106): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  UnitTest5.1_F.vcxproj -> D:\Project\OOP\LB5\LB_5.1_F\Debug\UnitTest5.1_F.dll

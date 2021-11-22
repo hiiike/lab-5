@@ -1,0 +1,3 @@
+﻿  LB_5.1_F.cpp
+D:\Project\OOP\LB5\LB_5.1_F\LB_5.1_F.cpp(26,3): warning C4286: 'Exception &': is caught by base class ('std::bad_exception &') on line 21
+  LB_5.1_F.vcxproj -> D:\Project\OOP\LB5\LB_5.1_F\Debug\LB_5.1_F.exe

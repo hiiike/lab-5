@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest5.1_F.cpp
+E:\oop\LB_5.1_F\Pair.cpp(61,106): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library E:\oop\LB_5.1_F\x64\Debug\UnitTest5.1_F.lib and object E:\oop\LB_5.1_F\x64\Debug\UnitTest5.1_F.exp
+  UnitTest5.1_F.vcxproj -> E:\oop\LB_5.1_F\x64\Debug\UnitTest5.1_F.dll
