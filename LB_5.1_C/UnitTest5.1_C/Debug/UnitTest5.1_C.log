@@ -1,0 +1,5 @@
+﻿  UnitTest5.1_C.cpp
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber.h(33,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber_Private.cpp(36,121): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber.cpp(44,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  UnitTest5.1_C.vcxproj -> D:\Project\OOP\LB5\LB_5.1_C\Debug\UnitTest5.1_C.dll

@@ -1,0 +1,15 @@
+﻿  FuzzyNumber.cpp
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber.h(33,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber.cpp(44,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  FuzzyNumber_Private.cpp
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber.h(33,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber_Private.cpp(36,121): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber_Private.cpp(37,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber_Private.h(29): message : see declaration of 'operator >>'
+  FuzzyNumber_Public.cpp
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber.h(33,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber_Public.cpp(37,120): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  LB_5.1_C.cpp
+D:\Project\OOP\LB5\LB_5.1_C\FuzzyNumber.h(33,113): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  LB_5.1_C.vcxproj -> D:\Project\OOP\LB5\LB_5.1_C\Debug\LB_5.1_C.exe
