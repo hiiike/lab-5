@@ -1,0 +1,14 @@
+﻿  Complex.cpp
+E:\oop\LB_5.1_G\Complex.cpp(42,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\LB_5.1_G\Complex.cpp(47,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\LB_5.1_G\Complex.cpp(52,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\oop\LB_5.1_G\Complex.cpp(57,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  LB_5.1_G.cpp
+E:\oop\LB_5.1_G\LB_5.1_G.cpp(27,3): warning C4286: 'Exception &': is caught by base class ('std::bad_exception &') on line 22
+  Object.cpp
+  Pair.cpp
+E:\oop\LB_5.1_G\Pair.cpp(60,106): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+E:\oop\LB_5.1_G\Pair.cpp(61,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+E:\oop\LB_5.1_G\Pair.h(31): message : see declaration of 'operator >>'
+  Generating Code...
+  LB_5.1_G.vcxproj -> E:\oop\LB_5.1_G\x64\Debug\LB_5.1_G.exe

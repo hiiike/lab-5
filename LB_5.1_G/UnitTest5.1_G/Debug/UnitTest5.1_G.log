@@ -1,0 +1,8 @@
+﻿  UnitTest5.1_G.cpp
+D:\Project\OOP\LB5\LB_5.1_G\Complex.cpp(42,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB5\LB_5.1_G\Complex.cpp(47,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB5\LB_5.1_G\Complex.cpp(52,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB5\LB_5.1_G\Complex.cpp(57,43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Project\OOP\LB5\LB_5.1_G\Pair.cpp(60,106): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     Creating library D:\Project\OOP\LB5\LB_5.1_G\Debug\UnitTest5.1_G.lib and object D:\Project\OOP\LB5\LB_5.1_G\Debug\UnitTest5.1_G.exp
+  UnitTest5.1_G.vcxproj -> D:\Project\OOP\LB5\LB_5.1_G\Debug\UnitTest5.1_G.dll
